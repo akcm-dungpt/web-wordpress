@@ -1,0 +1,611 @@
+<site>
+ <posts />
+ <pages>
+  <page author="" caption="Trang chủ" dateModified="03/02/2017 23:26:36" description="Description" keywords="Keywords" metaTags="" name="trang-chu" path="/trang-chu" showInHmenu="True" showInVmenu="True" showTitle="False" title="New Page &#xA;" titleInBrowser="New Page">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;h3 style="padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; border-bottom-width: 2px; border-bottom-color: rgb(52, 161, 12); border-bottom-style: solid; text-align: left;"&gt;Travel And Save Nature&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p style="text-align: center;"&gt;&lt;img width="266" height="176" alt="" src="./images/contentimage7.jpg" class=""&gt;&lt;br&gt;
+        &lt;a href="http://www.freedigitalphotos.net/images/view_photog.php?photogid=149"&gt;Image: federico stevanin / FreeDigitalPhotos.net&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p style="text-align: center;"&gt;&lt;img width="266" height="176" alt="" src="./images/contentimage5.jpg" class=""&gt;&lt;br&gt;
+        &lt;a href="http://www.freedigitalphotos.net/images/view_photog.php?photogid=587"&gt;Image: dan / FreeDigitalPhotos.net&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;Suspendisse bibendum nunc vel velit iaculis sagittis. Suspendisse rutrum nisi sed leo fermentum et tincidunt odio molestie. Pellentesque fermentum, nibh id sodales fringilla, tellus neque fringilla erat, eu feugiat metus libero non urna.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#" class="art-button"&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+        &lt;h3 style="padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; border-bottom-width: 2px; border-bottom-color: rgb(52, 161, 12); border-bottom-style: solid; text-align: left;"&gt;What You Get?&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p style="text-align: center;"&gt;                  &lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;img width="128" height="128" alt="" src="./images/icon7-3.png" class=""&gt;&lt;br&gt;
+        Duis auctor congue porta. Nulla ut augue nulla, et sagittis ipsum. &amp;nbsp;Nullam arcu lorem, ullamcorper ut accumsan id, volutpat eu neque. &amp;nbsp;Duis sagittis dictum sem, vitae mollis nibh sodales sed.&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;a href="#" class="art-button"&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 34%" &gt;
+        &lt;p style="text-align: center;"&gt;&lt;img width="128" height="128" alt="" src="./images/icon6-2-2.png" class=""&gt;&lt;br&gt;
+        Nulla ut augue nulla, et sagittis ipsum. Duis auctor congue porta. Nullam arcu lorem, ullamcorper ut accumsan id, volutpat eu neque. &amp;nbsp;Duis sagittis dictum sem, vitae mollis nibh sodales sed.&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;a href="#" class="art-button"&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p style="text-align: center;"&gt;&lt;img width="128" height="128" alt="" src="./images/icon5.png"&gt;&lt;br&gt;
+        Nullam arcu lorem, ullamcorper ut accumsan id, volutpat eu neque. Duis auctor congue porta. Duis sagittis dictum sem, vitae mollis nibh sodales sed. Nulla ut augue nulla, et sagittis ipsum.&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;a href="#" class="art-button"&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;h3&gt;Recommended Reading&lt;/h3&gt;
+        &lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In hac habitasse platea dictumst. Pellentesque commodo turpis vitae nibh sollicitudin hendrerit. Donec rutrum massa nec tellus mollis euismod. Praesent bibendum odio odio. Nullam porttitor, dui vitae facilisis auctor, mi lectus mollis nulla, non molestie leo sapien ut mi.&lt;/p&gt;
+        &lt;p&gt;Vestibulum justo tortor, hendrerit et porttitor at, lacinia ultricies lacus. Maecenas et felis et risus semper tempus. Sed nisi felis, lobortis nec vehicula sit amet, sollicitudin vitae justo. Nulla egestas dictum dolor non placerat. Pellentesque at iaculis sem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In hac habitasse platea dictumst.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#" class="art-button"&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 34%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;h3 style="padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; border-bottom-width: 2px; border-bottom-color: rgb(52, 161, 12); border-bottom-style: solid; text-align: left;"&gt;Travel And Save Nature&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p style="text-align: center;"&gt;&lt;img width="266" height="176" alt="" src="contentimage7.jpg" class=""&gt;&lt;br&gt;
+        &lt;a href="http://www.freedigitalphotos.net/images/view_photog.php?photogid=149"&gt;Image: federico stevanin / FreeDigitalPhotos.net&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p style="text-align: center;"&gt;&lt;img width="266" height="176" alt="" src="contentimage5.jpg" class=""&gt;&lt;br&gt;
+        &lt;a href="http://www.freedigitalphotos.net/images/view_photog.php?photogid=587"&gt;Image: dan / FreeDigitalPhotos.net&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;Suspendisse bibendum nunc vel velit iaculis sagittis. Suspendisse rutrum nisi sed leo fermentum et tincidunt odio molestie. Pellentesque fermentum, nibh id sodales fringilla, tellus neque fringilla erat, eu feugiat metus libero non urna.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#" class="art-button"&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+        &lt;h3 style="padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; border-bottom-width: 2px; border-bottom-color: rgb(52, 161, 12); border-bottom-style: solid; text-align: left;"&gt;What You Get?&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p style="text-align: center;"&gt;                  &lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;img width="128" height="128" alt="" src="icon7-3.png" class=""&gt;&lt;br&gt;
+        Duis auctor congue porta. Nulla ut augue nulla, et sagittis ipsum. &amp;nbsp;Nullam arcu lorem, ullamcorper ut accumsan id, volutpat eu neque. &amp;nbsp;Duis sagittis dictum sem, vitae mollis nibh sodales sed.&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;a href="#" class="art-button"&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p style="text-align: center;"&gt;&lt;img width="128" height="128" alt="" src="icon6-2-2.png" class=""&gt;&lt;br&gt;
+        Nulla ut augue nulla, et sagittis ipsum. Duis auctor congue porta. Nullam arcu lorem, ullamcorper ut accumsan id, volutpat eu neque. &amp;nbsp;Duis sagittis dictum sem, vitae mollis nibh sodales sed.&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;a href="#" class="art-button"&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p style="text-align: center;"&gt;&lt;img width="128" height="128" alt="" src="icon5.png"&gt;&lt;br&gt;
+        Nullam arcu lorem, ullamcorper ut accumsan id, volutpat eu neque. Duis auctor congue porta. Duis sagittis dictum sem, vitae mollis nibh sodales sed. Nulla ut augue nulla, et sagittis ipsum.&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;a href="#" class="art-button"&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;h3&gt;Recommended Reading&lt;/h3&gt;
+        &lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In hac habitasse platea dictumst. Pellentesque commodo turpis vitae nibh sollicitudin hendrerit. Donec rutrum massa nec tellus mollis euismod. Praesent bibendum odio odio. Nullam porttitor, dui vitae facilisis auctor, mi lectus mollis nulla, non molestie leo sapien ut mi.&lt;/p&gt;
+        &lt;p&gt;Vestibulum justo tortor, hendrerit et porttitor at, lacinia ultricies lacus. Maecenas et felis et risus semper tempus. Sed nisi felis, lobortis nec vehicula sit amet, sollicitudin vitae justo. Nulla egestas dictum dolor non placerat. Pellentesque at iaculis sem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In hac habitasse platea dictumst.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#" class="art-button"&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.art-content .art-postcontent-0 .layout-item-1 { border-spacing: 10px 0px; border-collapse: separate;  }
+.art-content .art-postcontent-0 .layout-item-2 { color: #0E1005; background: #D9E292; padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+  </page>
+  <page author="" caption="Giới thiệu" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="gioi-thieu" path="/gioi-thieu" showInHmenu="True" showInVmenu="True" showTitle="True" title="New Page" titleInBrowser="New Page">
+   <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+   <pageHead></pageHead>
+  </page>
+  <page author="" caption="Dịch vụ" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="dich-vu" path="/dich-vu" showInHmenu="True" showInVmenu="True" showTitle="True" title="New Page" titleInBrowser="New Page">
+   <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+   <pageHead></pageHead>
+   <pages>
+    <page author="" caption="Giao nhận vận tải quốc tế" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="giao-nhan-van-tai-quoc-te" path="/dich-vu/giao-nhan-van-tai-quoc-te" showInHmenu="True" showInVmenu="True" showTitle="True" title="New Page" titleInBrowser="New Page">
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+     <pageHead></pageHead>
+    </page>
+    <page author="" caption="Dịch vụ khai báo hải quan" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="dich-vu-khai-bao-hai-quan" path="/dich-vu/dich-vu-khai-bao-hai-quan" showInHmenu="True" showInVmenu="True" showTitle="True" title="New Page 2" titleInBrowser="New Page 2">
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+     <pageHead></pageHead>
+    </page>
+    <page author="" caption="Dịch vụ vận tải nội địa" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="dich-vu-van-tai-noi-đia" path="/dich-vu/dich-vu-van-tai-noi-đia" showInHmenu="True" showInVmenu="True" showTitle="True" title="New Page 3" titleInBrowser="New Page 3">
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+     <pageHead></pageHead>
+    </page>
+    <page author="" caption="Nhập khẩu &amp; phân phối bếp từ" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="nhap-khau-phan-phoi-bep-tu" path="/dich-vu/nhap-khau-phan-phoi-bep-tu" showInHmenu="True" showInVmenu="True" showTitle="True" title="New Page" titleInBrowser="New Page">
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+     <pageHead></pageHead>
+    </page>
+   </pages>
+  </page>
+  <page author="" caption="Liên hệ" dateModified="09/21/2012 13:18:33" description="Description" keywords="Keywords" metaTags="" name="new-page-2" path="/new-page-2" showInHmenu="True" showInVmenu="True" showTitle="True" title="Contacts" titleInBrowser="Contacts">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&lt;/p&gt;
+        
+        &lt;p&gt;Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices.&lt;/p&gt;
+        
+        &lt;h4&gt;Our Address&lt;/h4&gt;
+        
+        &lt;p&gt;586 Main Ave, Building 42&lt;br /&gt;
+        Main City, Country 12345-6789&lt;/p&gt;
+        
+        &lt;p&gt;T: (555) 123 - 4567&lt;br /&gt;
+        F: (555) 523 - 4567&lt;/p&gt;
+        
+        &lt;p&gt;W: &lt;a href="#"&gt;http://www.domain.com&lt;br /&gt;&lt;/a&gt;E: &lt;a href="#"&gt;email@domain.com&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&lt;/p&gt;
+        
+        &lt;p&gt;Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices.&lt;/p&gt;
+        
+        &lt;h4&gt;Our Address&lt;/h4&gt;
+        
+        &lt;p&gt;586 Main Ave, Building 42&lt;br /&gt;
+        Main City, Country 12345-6789&lt;/p&gt;
+        
+        &lt;p&gt;T: (555) 123 - 4567&lt;br /&gt;
+        F: (555) 523 - 4567&lt;/p&gt;
+        
+        &lt;p&gt;W: &lt;a href="#"&gt;http://www.domain.com&lt;br /&gt;&lt;/a&gt;E: &lt;a href="#"&gt;email@domain.com&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-top: 0px;padding-right: 10px;padding-bottom: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="sidebar1">
+   <block name="text" position="0" title="DỊCH VỤ">
+    <content>&lt;ul&gt;
+&lt;li&gt;Giao nhận vận tải quốc tế&lt;/li&gt;
+&lt;li&gt;Dịch vụ khai báo hải quan&lt;/li&gt;
+&lt;li&gt;Dịch vụ vận tải nội địa&lt;/li&gt;
+&lt;li&gt;Nhập khẩu &amp;amp; phân phối bếp từ&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <pageHead></pageHead>
+   </block>
+   <block name="text-4" position="1" title="HỖ TRỢ TRỰC TUYẾN">
+    <content>&lt;p style="text-align: left;"&gt;&amp;nbsp;&amp;nbsp;&lt;img width="50" height="50" alt="" src="facebook.jpg" class=""&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+   <block name="text-3" position="2" title="Photo Gallery">
+    <content>&lt;p&gt;&lt;img width="174" height="168" alt="" src="photo.jpg" class=""&gt;&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;a href="#"&gt;«&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href="#"&gt;»&lt;/a&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+  </sidebar>
+  <sidebar caption="" name="content-before" />
+  <sidebar caption="" name="content-after" />
+ </sidebars>
+</site>
